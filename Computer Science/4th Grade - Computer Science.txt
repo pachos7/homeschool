@@ -1,0 +1,8 @@
+4th Grade - Computer Science 
+
+--------------------  Week 4  ------------------------
+
+T. Review how programs run
+	Read the CS 101 document and follow directions to learn how to check programs running on the computer and how to see
+	how much cpu/memory they use and how to terminate them (kill them)
+
