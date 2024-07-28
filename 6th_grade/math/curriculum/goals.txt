@@ -1,0 +1,41 @@
+ Title: United States Math Standards - Grade 6
+
+1. Number Sense and Operations (NSOP)
+   - Understand place value up to 10^8 and apply place value understanding to perform multi-digit arithmetic operations.
+   - Use properties of operations to generate equivalent expressions, simplify expressions, and solve equations.
+   - Perform operations with fractions, decimals, and mixed numbers, including adding and subtracting fractions with like denominators and multiplying fractions by whole numbers.
+   - Solve real-world problems involving addition, subtraction, multiplication, division, and number relationships.
+
+2. Ratios and Proportional Relationships (RP)
+   - Understand the concept of a ratio and use ratios to solve problems involving fractions and whole numbers.
+   - Analyze proportional relationships between quantities.
+   - Solve real-world problems involving ratios, rates, and percentages.
+
+3. The Number System (NS)
+   - Understand and apply the properties of integers.
+   - Recognize and generate sequences that follow arithmetic or geometric patterns.
+   - Determine if a given number is prime or composite and find prime factors and multiples.
+   - Use the order of operations to perform calculations involving expressions with multiple operations.
+
+4. Expressions and Equations (EE)
+   - Write expressions that describe mathematical properties and solve problems using these expressions.
+   - Solve linear equations in one variable, including those that require algebraic techniques such as graphing or the use of variables.
+   - Understand the concept of a function and apply this understanding to solve real-world problems.
+
+5. Geometry (G)
+   - Recognize angles as geometric shapes and understand angle measure in degrees.
+   - Identify and describe properties of triangles, quadrilaterals, circles, and regular polygons.
+   - Understand the relationship between area and perimeter, calculate area using rectangular coordinate systems, and solve real-world problems involving area and perimeter.
+   - Understand concepts of volume and surface area and apply these concepts to solve real-world problems.
+
+6. Measurement and Data (MD)
+   - Convert measurements from a larger unit to a smaller unit and vice versa.
+   - Solve real-world problems involving measurement and conversion of units.
+   - Use data displays, including tables, line plots, and bar graphs, to represent and interpret data.
+   - Analyze relationships and make inferences and justify conclusions from the analysis of patterns in data.
+
+7. Mathematical Reasoning (MR)
+   - Make connections between mathematical ideas and understand how they relate to each other.
+   - Use mathematical reasoning and proof to solve problems and make generalizations about sets, numbers, functions, and geometric shapes.
+   - Understand the concept of congruence and use it to solve real-world problems.
+   - Justify solutions to problems using precise mathematical language and definitions.

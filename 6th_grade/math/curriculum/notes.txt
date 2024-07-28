@@ -1,0 +1,107 @@
+notes.txt
+
+T. Generate mulitple country math goals and compare:
+    France, Italy, Finland, Japan, China, India
+
+T. Get some feedback using chatGpto model on the goals
+
+T. Once set the high level goals in the readme complete the goals.txt with details about each topi
+T. Then create a section for each topic
+    Include the projects/problems/tasks
+    Material that they can use to learn about it
+    
+T. Get the agile manifesto and adapt it for our math curriculum
+    Understanding over Procedure
+    Make sense over result
+
+
+
+
+Emphasis on problem-solving and reasoning skills through hands-on, open-ended problems and collaborative 
+learning experiences rather than just procedures and rules.
+
+Emphasis on teaching mathematics in a context that is relevant to the students' lives and future careers. 
+Integrate mathematical concepts often into various subjects, such as science and social studies. 
+
+Conceptual understanding vs. procedural knowledge: 
+The balance between teaching conceptual understanding and procedural knowledge varies among countries. 
+While France and Italy may focus more on memorizing rules and procedures for solving mathematical 
+problems, Finland, Japan, and China tend to place a greater emphasis on developing deep, conceptual understanding through exploration 
+and inquiry-based learning.
+
+Use of technology: There are differences in the use of technology among these countries. For example, some Asian countries like 
+Japan and China have incorporated technology into their math classrooms to help students visualize abstract concepts and solve complex 
+problems more efficiently. In contrast, European countries might rely more on traditional teaching methods and physical manipulatives 
+for learning mathematical concepts.
+
+Flexibility in the curriculum: The flexibility of the curriculum also varies among these countries. For instance, India has a more 
+flexible curriculum that allows teachers to tailor their instruction to meet the needs of individual students. In contrast, Japan tends 
+to follow a more rigid, standardized curriculum with limited room for adaptation based on student needs or teacher discretion.
+
+Focus on mental math skills: Some countries like China and India place a strong emphasis on mental arithmetic skills, while other 
+countries like France and Italy might focus more on using written methods for calculations. Japan tends to strike a balance between 
+mental math skills and the use of written methods for solving problems.
+
+
+N. Math concepts K-12
+    - Number
+        Whole Number
+            Place Value
+        Operations
+            Counting
+            Cardinality
+            Addition
+                Number Facts
+            Substraction
+            Division
+            Multiplication
+                Skipt Counting
+                Times Tables
+        Relations
+        Number Systems
+            Natural
+            Integers
+            Fractions
+            Rational
+            Real
+            Complex
+        Structures
+            Algebra
+                Equations
+                Ratios
+                Matrices
+                Vectors
+    - Space
+        Geometry
+            2D shapes
+            3D shapes
+            Area
+            Volume
+        Trigonometry
+            Pythagoras
+        Spatial Relations
+        Measurement
+            Compare
+            Clasification
+            Sort
+
+    - Changes
+        Calculus
+        Vector Calculus
+        Differential Equations
+
+    - Applied Math
+        Probability
+        Computer science
+            Binary
+        Economics
+        Statistics
+            Distributions
+
+    - Sets
+        Venn Diagrams
+
+
+
+References
+https://www.thecorestandards.org/wp-content/uploads/Math_Standards1.pdf
