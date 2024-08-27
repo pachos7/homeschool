@@ -1,0 +1,352 @@
+Curriculum
+
+
+Week 1/2 - Introduction to Algebra
+
+------------------------------------------------------------------------------------
+Review missing number problems with addition for example:
+"If i read three books how many more books do I need to read to complete 10?"
+3 + ? = 10
+
+Solve the problem using the math that you currently know. 
+Then discuss about the concepts of Equation and Variable, focus on how an equation represents a balance, you can use the example of a scale to illustrate the point.
+Also review how adding something to one side of the scale can be balanced by adding
+the same on the other side, and also how removing something on one side can be
+balanced by removing the same on the other side.
+
+Rewrite the equation introducing the x variable:
+
+3 + x = 10
+
+This is balanced, we can introduce changes on both sides, for example substracting 3 on both sides:
+
+3 + x - 3 = 10 - 3 
+
+Then we can resolve some of the operations:
+
+3 + x - 3 = 7
+
+Also we can reorganize the left side:
+
+x + 3 - 3 = 7 
+
+And we can now resolve on the left side:
+
+x = 7 
+
+
+And that way we can find the 'solution'
+
+
+notice how we 'isolated the variable'
+
+------------------------------------------------------------------------------------
+
+Let's try missing problems with multiplication:
+"If your mom gives you 13 dollars every day, how many days until you can save 91 dollars?"
+
+Try writting an equation that represents that:
+
+13 * ? = 91
+
+13 * x = 91 
+
+(13 * x) / 13 = 91 / 13
+
+13/13 * x = 7
+
+1 * x = 7
+
+x = 1
+
+
+Building triangle telescopes
+With 3 single sheets of paper of different sizes use math to build triangular telescopes,
+make sure you leave a centimeter at the end of the page as a flap to close your telescope,
+use the power of math to measure how the divide your page in three equal parts.
+
+
+First we will split out letter size paper in 3 parts like this:
+
+ ---------------------------------
+|                |                |
+|                |                |
+|                |                |
+|                |                |
+|                |                |
+|                |----------------|
+|                |                |
+|                |                |
+|                |                |
+|                |                |
+|                |                |
+ ---------------------------------
+
+Then we are going to use the biggest part of paper first and we are going to try to build a triagular paper telescope by folding the paper. As we need to glue one of the ends we need to leave space for a flap. Let's make that flap be 1 cm. for the rest of the telescope we need to divide the paper in 3, use math to figure out how big each one of the sides should be:
+
+ ----------------
+|                |
+|                |x
+|----------------|
+|                |
+|                |x
+|----------------|
+|                |
+|                |x
+|----------------|
+|----------------|1
+
+
+To make the triangle we need 3 equal part of an unknown size, let's all it x. That plus the 1 cm that we'd use for the flap would equal the total length of the paper. then we have that : x + x + x + 1 = lenght of the paper. So 3*x + 1 = lenght.
+
+If we measure the length let's say 21 cm we'd have this equation 3*x + 1 = 21.5
+
+To find the value of x we'd need to isolate the x, we'd start by removing the 1, to do so we can substract 1 on the left side, to keep our equation balanced we'd have to substract 1 on the right side too: 3*x + 1 - 1 = 21.5 - 1
+                       3*x + 0     = 20.5
+                       3*x         = 20.5
+Now to remove the 3 we'd have divide by 3 on the left side, so we'd also divide by 3 on the right side:
+
+              3*x    20.5
+              ---  = ----
+               3       3
+
+
+                     20.5
+              1*x  = ----
+                      3
+
+
+                   20.5
+              x  = ----
+                     3
+
+
+              x  = 6.83
+
+
+So we'd have to to make our sides be 6.83 so that: 6.83 + 6.83 + 6.83 + 1 = 21.5
+
+This way we can build our triangular telescope.
+
+If we take the other piece of paper and apply the same logic we can build other two triangles. Remember to keep the 1 cm for the flap. Make sure you use on of the the remainder papers on the long side and the other one on the short side like this:
+
+
+|----------------|
+|    |    |    | |
+|    |    |    | |
+|    |    |    | |
+|    |    |    | |
+|    |    |    | |
+|----------------|
+
+|----------------|
+|                |
+|----------------|
+|                |
+|----------------|
+|                |
+|----------------|
+-----------------
+
+We can use the same equation 3*x + 1 = lenght with the only difference that the length would be different for these.
+
+So for the first one:
+
+3*x + 1 = 14
+
+Which solving:
+    14 - 1    13 
+x = ------ = --- = 4.3
+       3      3
+
+
+For the second one:
+
+3*x + 1 = 10.8
+
+Which solving:
+    10.8 - 1   9.8 
+x = -------- = --- = 3.26
+        3       3
+
+
+Go ahead and build thesre three triangles, observe how we use the same equation to solve the same problem just by changing the lenght, could we do more triangles?
+
+Try fitting the thriangles one inside each other to create a triangular telescope.
+
+
+As a second activity let's try to create a table with different sizes sizes.
+
+For a triangle of zise 4 we would have that 3 * 4 + 1 = 13, the length of the paper would nee to be 13.
+
+side length 4 -> 3 * 4 + 1 = 13
+side length 5 -> 3 * 5 + 1 = 16
+side length 6 -> 3 * 6 + 1 = 19
+side length 7 -> 3 * 7 + 1 = 22
+side length 8 -> 3 * 8 + 1 = 25
+
+We could find the size of the paper required for any of the sides size.
+
+Let's put this in a graph:
+
+leght of paper
+25|                              X
+24|               
+23|                           
+22|                          X
+21|
+20|
+19|                      X
+18|
+17|
+16|                  X
+15|
+14|
+13|              X
+12|
+11|
+10|
+ 9|
+ 8|
+ 7|
+ 6|
+ 5|
+ 4|
+ 3|
+ 2|
+ 1|
+ 0|
+  ----------------------------------------------------------------------------------------  
+  0  1.  2.  3.  4.  5.  6.  7.  8.  9.  10   
+
+         Size of side
+
+
+See how they form a line, we could find other sizes just by tracing a line andf finding the corresponding values
+
+
+
+------------------------------------------------------------------------------------
+
+# 6th Grade Math Guide: Understanding the Equation y = 100 - 3x
+
+## Introduction
+
+Welcome to our math lesson! Today, we're going to learn about equations and how they can help us solve everyday problems. Specifically, we’ll explore the equation \( y = 100 - 3x \). This equation helps us understand how a quantity changes over time. 
+
+Let's break it down:
+- **\( y \)** represents the amount we have left.
+- **\( x \)** represents the number of days.
+- **100** is the starting amount.
+- **3** is the amount we lose or use each day.
+
+We’ll use a fun example involving LEGO bricks to see how this equation works!
+
+## Practical Example: LEGO Bricks
+
+Imagine you have a total of 100 LEGO bricks. Each day, you use 3 LEGO bricks to build different things. We can use the equation \( y = 100 - 3x \) to find out how many LEGO bricks you have left at any given day.
+
+### Step-by-Step Example:
+
+1. **Day 0 (when you haven’t used any LEGO bricks yet):**
+   - Plug in \( x = 0 \) into the equation: 
+     \[
+     y = 100 - 3 \times 0
+     \]
+   - Simplify:
+     \[
+     y = 100
+     \]
+   - So, you have 100 LEGO bricks left.
+
+2. **Day 1 (after using LEGO bricks for 1 day):**
+   - Plug in \( x = 1 \) into the equation:
+     \[
+     y = 100 - 3 \times 1
+     \]
+   - Simplify:
+     \[
+     y = 100 - 3 = 97
+     \]
+   - You have 97 LEGO bricks left.
+
+3. **Day 2 (after using LEGO bricks for 2 days):**
+   - Plug in \( x = 2 \) into the equation:
+     \[
+     y = 100 - 3 \times 2
+     \]
+   - Simplify:
+     \[
+     y = 100 - 6 = 94
+     \]
+   - You have 94 LEGO bricks left.
+
+4. **Day 3 (after using LEGO bricks for 3 days):**
+   - Plug in \( x = 3 \) into the equation:
+     \[
+     y = 100 - 3 \times 3
+     \]
+   - Simplify:
+     \[
+     y = 100 - 9 = 91
+     \]
+   - You have 91 LEGO bricks left.
+
+### Practice Problems:
+
+1. **Day 5:**
+   - How many LEGO bricks do you have left?
+   - \( y = 100 - 3 \times 5 \)
+   - Simplify and solve.
+
+2. **Day 7:**
+   - How many LEGO bricks do you have left?
+   - \( y = 100 - 3 \times 7 \)
+   - Simplify and solve.
+
+## Graphing the Equation
+
+Now let's see what the equation looks like when we graph it. 
+
+### Creating the Graph:
+
+1. **Draw the Axes:**
+   - Draw a horizontal line (the x-axis) and a vertical line (the y-axis). 
+
+2. **Label the Axes:**
+   - The x-axis is the number of days.
+   - The y-axis is the number of LEGO bricks left.
+
+3. **Plot Points:**
+   - Day 0: \( (0, 100) \)
+   - Day 1: \( (1, 97) \)
+   - Day 2: \( (2, 94) \)
+   - Day 3: \( (3, 91) \)
+
+4. **Connect the Dots:**
+   - Draw a straight line through the points. This line shows how the number of LEGO bricks decreases over time.
+
+### Graph Example:
+```
+   | 
+100|* (0, 100)
+   |
+ 90|      *
+   |        *
+ 80|          *
+   |
+   +----------------
+     0  1  2  3  4  (days)
+```
+
+The line slopes downward because each day, you’re using up LEGO bricks, so the amount left decreases.
+
+## Conclusion
+
+By understanding the equation \( y = 100 - 3x \) and graphing it, we can see how the number of LEGO bricks decreases over time. Equations like this are powerful tools that help us solve real-world problems and make predictions about different situations.
+
+Try using this equation with other examples, like how much money you have left if you spend a certain amount each week, or how much time is left if you spend a certain amount of time each day on a project. Keep practicing and have fun with math!
+
+
+
+

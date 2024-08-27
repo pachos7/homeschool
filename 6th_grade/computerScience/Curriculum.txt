@@ -1,0 +1,15 @@
+Curriculum
+
+Week 1 - Planning disucussion
+
+
+Proposed topics for the year:
+
+- Create a robot (creatures that move)
+    Learn more about arduino tools that we can use to create our own project 
+
+- Create own dynamic website
+    - Understand the Client-Server model (Understnand the HTML Protocol)
+    - Advanced programming, Python: Structures and data
+    - Practical programming HTML
+    - Integrating Database and web pages

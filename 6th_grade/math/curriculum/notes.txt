@@ -1,6 +1,6 @@
 notes.txt
 
-T. Generate mulitple country math goals and compare:
+T. Generate multiple country math goals and compare:
     France, Italy, Finland, Japan, China, India
 
 T. Get some feedback using chatGpto model on the goals
