@@ -1,9 +1,10 @@
 Curriculum
 
 
+»»————————————————————————---------------　★　---------------————————————————————————««
 Week 1/2 - Introduction to Algebra
 [4. Expressions and Equations (EE)]
-------------------------------------------------------------------------------------
+
 Review missing number problems with addition for example:
 "If i read three books how many more books do I need to read to complete 10?"
 3 + ? = 10
@@ -348,9 +349,10 @@ By understanding the equation \( y = 100 - 3x \) and graphing it, we can see how
 Try using this equation with other examples, like how much money you have left if you spend a certain amount each week, or how much time is left if you spend a certain amount of time each day on a project. Keep practicing and have fun with math!
 
 
+
+»»————————————————————————---------------　★　---------------————————————————————————««
 Week 3 - Introduction to Algebra
 [4. Expressions and Equations (EE)]
-------------------------------------------------------------------------------------
 
 Ask the students to create an equation to represent their age.
 
@@ -443,3 +445,75 @@ year 2024, y = 2024 - 1980 = 44
 
 So this is my equation, for each kid the year that they are born is different but the 'shape' of the 
 equation would be the same. Encourage them to compare their graphs, tables and equations
+
+
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 4  Analyze proportional relationships between quantities.
+[2. Ratios and Proportional Relationships (RP)]
+
+
+Draw a square of size 16cm x 16cm. Then paint the diagonal of the square like this:
+
+-------------
+|         * |
+|       *   |
+|     *     |
+|   *       |
+| *         |
+|*----------|
+
+Then Using the square and its diagonal paint a triangle with with 2cm and height 2cm, like this:
+
+-------------
+|         * |
+|       *   |
+|     *     |
+|   *       |
+| * |2      |
+|*----------|
+   2
+
+Find how much the diagonal on that triangle measures, it should be close to 3 (~2.82).
+
+Then let's create a triangle four times bigger, so its width should be 8, it's heigtn is
+also 8, and let's measure our diagonal:
+
+-------------
+|         * |
+|       *   |
+|     * |   |
+|   *   |8  |
+| *     |   |
+|*----------|
+     8  
+It should be close to 12 (~11,31), notice how when the with grew four times, the height
+also grew 4 times and the diagonal also grew four times, meaning that somehow the y are
+related.
+
+Try doing the same excercise but growing by different factors, it could be 5 times bigger,
+10 times bigger, 7 times bigger etc, when measuring the diagonal it should always be
+very close.
+
+Try using legos to do similar measurements, legos are very excact in size so it would help
+to do the measuring correctly. Encourage kids to use detailed milimeters to measure.
+
+
+
+New activity: Scale a drawing.
+
+Make a cuadricule 2cm wide and 4cm tall and have the students make a simple drawing on it. It could be a simple image of a statue or just a letter to fint in the 2x4.
+
+Then ask them to make that same drawing five times bigger. Let them think about how
+tall the new image would be and how wide the image would be. Multiplying each dimension by 5 would tell us the new dimension, that would be 10x20.
+Have them make the image on the new scale and compare.
+
+Ask them to scale again using something like three and a half times, that means
+we'd have to mulitply the original measurements by 3.5. That would be 2x3.5= 7
+and 4x3.5=14
+
+This is what we do scale up, we multiply the original dimensions by the number we
+want to scale to, invite the students to come up with their own scale up number.
+
+
+
