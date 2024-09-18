@@ -500,7 +500,7 @@ to do the measuring correctly. Encourage kids to use detailed milimeters to meas
 
 
 
-New activity: Scale a drawing.
+Activity 1: Scale a drawing.
 
 Make a cuadricule 2cm wide and 4cm tall and have the students make a simple drawing on it. It could be a simple image of a statue or just a letter to fint in the 2x4.
 
@@ -514,6 +514,66 @@ and 4x3.5=14
 
 This is what we do scale up, we multiply the original dimensions by the number we
 want to scale to, invite the students to come up with their own scale up number.
+
+
+Activity 2: Compare famous building sizes.
+
+Select 3 famous building and compare their sizes, we'd need to scale them down to fit on the page that we are going to use to draw them.
+
+Example:
+Giza biggest pyramid: 230m tall
+Empire State building: 443m tall
+Burj Khalifa building: 828m tall
+
+To scale it down to fit our page we'd have to divide the numbers by a factor,
+we need to find out the factor, notice that the measurements of your page may be in 
+cm so you'd need to match that by converting the original number in cm.
+
+Let's say for example that we have a page that is 30cm tall, so let's try to fit the
+tallest building in it, 828m which is 82800cm which will not fit into our page.
+Let's try scaling by half, that'd be 82800cm/2 = 41400cm, doesnt fit, let's try other numbers:
+
+82800cm/2 = 41400cm, doesn't fit
+82800cm/20 = 4140cm, doesn't fit
+82800cm/200 = 414cm, doesn't fit
+82800cm/400 = 207cm, doesn't fit
+82800cm/1000 = 82,8cm, doesn't fit
+82800cm/2000 = 41,4cm, doesn't fit
+82800cm/3000 = 27,6cm, will fit so we will use 3000 to divide our other numbers
+
+
+Giza biggest pyramid:  230m/3000 = 7,66cm
+Empire State building: 443m/3000 = 14,7cm
+Burj Khalifa building: 828m/3000 = 27,6cm
+
+Draw rectangles to represent each of the buildings height and compare them.
+
+We have effectively scaled them down by 3000. 
+Then our scale is 1cm = 3000cm
+or we can also say that 1cm = 30m
+
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 5  Analyze proportional relationships between quantities.
+[2. Ratios and Proportional Relationships (RP)]
+
+
+Activity 1: Build a more detailed scaled down version of a famous builing
+
+This time instead of just using the heigth we will be also using the width of the builiding.
+Let's take for example the empire state... this building is made like a 7 layers cake.
+
+Here's the dimensions of each "cake" from bottom to top, first number is the with and second is the heigth:
+Layer  1: 129m x 24m
+Layer  2: 95,2m x 53,4m
+Layer  3: 73,9m x 35,6m
+Layer  4: 57,9m x 151,3m
+Layer  5: 55,2m x 33m
+Layer  6: 47,1m x 35,6m
+Layer  7: 44,5m x 4,4m
+
+Scale it down 20 times to paint it on a sheet of paper
+
 
 
 
