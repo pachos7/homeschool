@@ -576,4 +576,219 @@ Scale it down 20 times to paint it on a sheet of paper
 
 
 
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 6  Representing objects with Lego
+[6. Measurement and Data (MD)]
+
+Activity 1: Meters to lego: Find out how to represent the height of 3 buildigins with legos
+Example:
+Giza biggest pyramid: 230m tall
+Empire State building: 443m tall
+Burj Khalifa building: 828m tall
+
+
+Activity 2: Measure my room
+Measure the walls of your room. Inititally make a sketch just with the basic shape of the walls
+that you can use to write down the measurements, once measure scale it down so that you
+can make a drawing now with the measurements that you took
+
+Activity 3: room to legos
+Recreate the sorrounding walls of your room using legos, you have to decide which scale to use,
+for example you can decide that each lego stub represents 10 centimeters.
+Focus on doing only the sorrounding walls, later on when you ge the time you could also measure
+the walls, windows, doors and other objects on your room to add more detail to it.
+Remember to always take notes on your scetch of the original measurement and the scaled measurement.
+
+
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 7  Measuring Angles
+    [Geometry (G)]
+
+Activity 1: Analize your bedroom doorframe.
+
+Objective: Students will identify and measure angles formed by the vertical and horizontal parts of a doorframe.
+
+Materials Needed:
+
+Protractor
+Ruler
+Notebook and pencil
+
+Instructions:
+
+Observe: Look closely at your bedroom doorframe. Identify the three main pieces: two horizontal pieces at the top and bottom, and one vertical piece on the side.
+Identify Angles: Notice where the horizontal and vertical boards meet. These points create angles.
+Measure: Using a protractor, measure the angles formed at the corners of the doorframe. Record your findings in your notebook.
+Discuss: Share your observations with classmates. How do these angles help in the structure of the doorframe? Why are they important?
+Reflection Questions:
+
+What type of angles did you find (acute, right, obtuse)?
+How do you think the angles impact the stability of the doorframe?
+This activity will help students delve into the practical application of angles in everyday structures!
+
+
+Activity 2: Identifying Internal Angles of Geometric Shapes
+
+Objective: Students will learn to calculate and identify the internal angles of various geometric shapes.
+
+Materials Needed:
+
+Protractor
+Ruler
+Graph paper
+Notebook and pencil
+Instructions:
+
+1. Square:
+
+* Draw a square on graph paper.
+* Measure each internal angle using a protractor.
+* Calculate the total internal angles: 4×90°=360°. Discuss why each angle is 90°
+
+2. Rectangle:
+
+* Draw a rectangle on graph paper.
+* Measure each internal angle.
+* Confirm the total internal angles: 4×90°=360°. Discuss the similarities with the square.
+
+3. Triangle:
+
+* Draw a triangle on graph paper.
+* Measure each internal angle and calculate the total: 𝐴 + 𝐵 + 𝐶 = 180°. Discuss how the angles relate to each other.
+
+4. Relationship between a Circle and a Square:
+
+* Draw a square that fits inside a circle (circumscribed circle).
+* Discuss how the circle has no angles and its circumference relates to the square's dimensions. Consider how the square's angles fit within the circular shape.
+
+Reflection Questions:
+
+* What patterns did you notice in the angles of squares and rectangles?
+* How do the angles of the triangle differ from those of the other shapes?
+* Why is understanding internal angles important in geometry?
+
+This activity will help students delve into the relationships between different shapes and enhance their understanding of internal angles!
+
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 8 - Understanding Probability with Dice
+    [Measurement and Data (MD)]
+
+**Objective:** Students will learn the basics of probability by conducting experiments with dice.
+
+**Materials Needed:**
+- Standard six-sided dice (one per student or group)
+- Paper and pencil for recording results
+- Chart or graph paper for data representation
+
+**Instructions:**
+
+1. **Introduction to Probability:**
+   - Explain the concept of probability as the likelihood of an event occurring, ranging from 0 (impossible) to 1 (certain).
+   - Discuss the probability formula: P(E) = {Number of favorable outcomes}/{Total possible outcomes
+
+2. **Roll the Dice:**
+   - Have each student or group roll a die a set number of times (e.g., 30 rolls).
+   - Record the results of each roll.
+
+3. **Calculate Frequencies:**
+   - Count how many times each number (1 through 6) appears.
+   - Calculate the experimental probability for each outcome using the formula above.
+
+4. **Analyze Data:**
+   - Create a chart or graph to visually represent the results. Compare experimental probabilities with theoretical probabilities 1/6 for each number.
+   - Discuss any discrepancies between experimental and theoretical probabilities.
+
+5. **Reflection:**
+   - Engage students in a discussion about factors affecting probability, such as randomness and sample size.
+   - Encourage them to think about how probability is used in real-life scenarios.
+
+This hands-on activity allows students to delve into probability concepts through direct experience with data collection and analysis!    
+
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 9 - Probability concepts
+    [Measurement and Data (MD)]
+
+* Event
+    Things that happen, there are certain events that we are certain will happen like: we are certain that 
+    the sun will rise tomorrow. There are other events that we are certain that will not happen, like:
+    It's impossible that i will grow 3 meters tall.
+    There are events that we can't be sure about like: We are not sure if it will be sunny tomorrow or
+    we can't be sure that we will get a call tomorrow.
+
+* Chance
+    Refers to the likelihood or possibility of an event happening.
+    It can be expressed in words, such as "likely," "unlikely," "certain," or "impossible."
+    For example if Carlos is a good runner we may say "Carlos has a good chance of winning the race"
+    Sometimes a number is used to tell the chace of something happening.
+
+
+* Probability 
+    A way of quantifying chance. It tells us numerically how likely an event is to occur.
+    Probability is a number between 0 and 1:
+        0 means the event will not happen (impossible).
+        1 means the event will definitely happen (certain).
+        1/2 or 0.5 means the event will happen half of the time
+    Probabilities can be written as a fraction, as a decimal or as a percent, for example these thre are the same:
+        1/5 probability
+        0.2 probability
+        20% probability
+        
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 10 - Number Line and properties of Integers
+    [3. The Number System (NS)]
+
+
+The number line
+Is a visual way to represent numbers. It is a straight line with numbers placed at equal intervals. The center of the number line is zero (0), and numbers to the right of zero are positive, while numbers to the left are negative.
+
+Here's a simple number line for reference:
+<--- -3 --- -2 --- -1 --- 0 --- 1 --- 2 --- 3 --->
+
+- Positive numbers: These are numbers greater than zero (e.g., 1, 2, 3, etc.).
+- Negative numbers: These are numbers less than zero (e.g., -1, -2, -3, etc.).
+- Zero (0): Zero is neither positive nor negative. It separates positive and negative numbers.
+
+Activity 1, Integer Number Line 
+    Draw a number line ranging from -10 to +10.
+    Place integers they encounter in their daily life (e.g., temperatures, scores) on the number line.
+    Discuss how integers can represent both positive and negative values.
+
+
+- Properties of Integers:
+
+    Commutative Property:
+        Definition: Changing the order of numbers does not change the sum or product.
+        Examples: 3 + 5 = 5 + 3 and 4 × 2 = 2 × 4
+        In general we can say that: 
+            a + b = b + a
+            a * b = b * a
+
+        Practical Example: If you have 3 apples and 5 oranges, you can count 5 oranges first or 3 apples first, and you will have 8 fruits either way.
+
+    Associative Property:
+        Definition: Changing the grouping of numbers does not change the sum or product.
+        Example:  ( 2 + 3 ) + 4 = 2 + ( 3 + 4) and  ( 2 × 3 ) × 4 = 2 × ( 3 × 4)
+        In general we can say that: 
+            a + b + c = (a + b) + c = a + (b + c)
+            a * b * c = (a * b) * c = a * (b * c)
+        Practical Example: When baking, if you mix 2 cups of flour and 3 cups of sugar, then add 4 eggs, it doesn’t matter if you mix the flour and sugar first or add the eggs later.
+
+        Beware: while mixing multiplication and addition
+            (3 + 4) * 5 != 3 + (4 * 5)
+                 7  * 5 != 3 + 20
+                     35 != 23
+
+    Identity Property:
+        Definition: The sum of any integer and zero is the integer; the product of any integer and one is the integer.
+        Example: 5 + 0 = 5 and 7 × 1 = 7
+        Practical Example: If you have 7 dollars and spend 0 dollars, you still have 7 dollars.
+
+    Distributive Property:
+        Definition: Multiplying a number by a sum is the same as doing each multiplication separately.
+        Example:  3 * (2 + 4) = (3 * 2) + (3 * 4)
+        Practical Example: If you buy 3 packs of gum at $2 each and 3 packs at $4 each, you can add the prices before multiplying, or multiply separately.
 
