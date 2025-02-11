@@ -39,3 +39,10 @@
    - Use mathematical reasoning and proof to solve problems and make generalizations about sets, numbers, functions, and geometric shapes.
    - Understand the concept of congruence and use it to solve real-world problems.
    - Justify solutions to problems using precise mathematical language and definitions.
+
+8. Financial Education (FE)
+   - Learn about the basics of every day money including the concepts of salary, spending, taxes, purchasing and budget
+   - Know about the basics of credit including loans and credit cards
+   - Get familiar with the basic concepts around investing tools, stock market.
+
+   

@@ -792,3 +792,70 @@ Activity 1, Integer Number Line
         Example:  3 * (2 + 4) = (3 * 2) + (3 * 4)
         Practical Example: If you buy 3 packs of gum at $2 each and 3 packs at $4 each, you can add the prices before multiplying, or multiply separately.
 
+
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 11 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 12 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 13 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 14 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 15 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 16 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 17 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 18 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 19 - 
+    [8. Financial Education (FE)]
+    - Learn the basics about how salary works, how many deductions do we have and much we actually get
+    - Review basic concepts about money expenses: Wants, Needs, Save, Invest, Give
+    - Prepare a basic montly budget to get familiar with how a starting salary works and the cost
+    of everyday items in their own household
+
+Activity 1, Monthly budget
+    Simulate students getting a defined ammount of monthly salary and ask them to distribute the money
+    based on the assumption that they live on their own and that they depend financialy on that
+    salary only
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 20 - Salary and expending money
+    [8. Financial Education (FE)]
+    - 
+
+Activity 1, Monthly budget
+    Simulate students getting a defined ammount of monthly salary and ask them to distribute the money
+    based on the assumption that they live on their own and that they depend financialy on that
+    salary only
+
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 21 - 
+    [8. Financial Education (FE)]
+
+
+https://youtu.be/8emCSAYc-Cg?feature=shared
+
+
+
