@@ -851,11 +851,195 @@ Activity 1, Monthly budget
 
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 21 - 
+Week 21 - Credit Cards
+    [8. Financial Education (FE)]
+
+    https://youtu.be/8emCSAYc-Cg?feature=shared
+
+    A credit card is a small plastic card that lets you borrow money from a bank to buy things. 
+    When you use a credit card, you are agreeing to pay back the money you borrowed, usually with some extra money called interest 
+    if you don't pay it back quickly.
+
+    Here's how to use a credit card:
+        1. **Get a Credit Card**: 
+            You need to apply for a credit card from a bank. If they approve your application, they will send you a card.
+
+        2. **Use the Card to Buy Things**: 
+            You can use your credit card to buy things in stores or online. Just give the card to the cashier or enter the card details online.
+
+        3. **Receive a Bill**: 
+            Each month, you will get a bill that shows how much money you borrowed with your credit card.
+
+        4. **Pay the Bill**: 
+            You need to pay back the money you borrowed. 
+            If you pay the full amount by the due date, you won't have to pay extra money (interest). 
+            If you only pay part of the bill, you will have to pay interest on the remaining amount.
+
+        5. **Keep Track of Spending**: 
+            It's important to keep track of how much you spend with your credit card so you don't borrow more money than
+            you can pay back.
+
+    Using a credit card responsibly can help you build a good credit history, which is important for borrowing money in the future, 
+    like for buying a car or a house.
+
+    Physical Characteristics
+        It's a small plastic card. 
+        It has four key elements:
+            - A name
+            - A unique card number (16 digits)
+            - An expiration date (usually in the MM/YY format)
+            - A security code (A 3 digit number). 
+        Most common credit cards would be Visa or MasterCard, so if you see their logo in a card you know it's a credit card
+
+    Differences with a Debit card:
+        A debit card, on the other hand, is also a small plastic card, but it takes money directly from your bank account when 
+        you buy things. You don't borrow money with a debit card, so you don't have to pay interest. 
+        The main difference is that a credit card lets you borrow money, while a debit card uses the money you already have 
+        in your bank account.
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 22 - Investment 101
     [8. Financial Education (FE)]
 
 
-https://youtu.be/8emCSAYc-Cg?feature=shared
+https://youtu.be/8JSGKQiwafc?si=gOOR4S0hnhiS-gIF
+
+What is Investment?
+Investment is when you put your money into something with the hope that it will grow over time. 
+Imagine you have $10, and you decide to lend it to a friend. Your friend promises to give it back 
+to you later, but also gives you an extra $2 as a thank-you. 
+That $2 is your return on investment. In the world of finance, people invest their money in many 
+different ways to try to make more money.
+
+Why Do People Invest?
+- Make Money Grow: You invest to help your money grow faster than if you just kept it in a piggy bank.
+- Prepare for the Future: People invest to save up for big goals, like college, a house,  or even 
+  retirement (when they stop working).
+- Beat Inflation: Over time, things get more expensive, and the value of money goes down. 
+  Investment can help you keep up with rising prices.
 
 
+Different Ways to Invest
+
+There are many ways people can invest their money. Here are a few basic ones:
+
+1. Stocks
+    What Are They?: A stock is like owning a small piece of a company. When you buy stock, you're becoming a shareholder in that company.
+    How Do You Make Money?: If the company does well, the stock price goes up, and you can sell it for more than you bought it for. Some companies also give out money to their shareholders, called dividends.
+    Example: Imagine you buy a stock in a company that makes your favorite video game. If the company does well, the stock might go up in value.
+
+2. Bonds
+    What Are They?: A bond is like a loan. You lend your money to a company or government, and they promise to pay you back later with some extra money (called interest).
+    How Do You Make Money?: The government or company pays you interest while they hold onto your money. When the bond "matures," they give you your original money back.
+    Example: If you buy a bond for $100, they might pay you $5 a year until the bond matures. After a few years, they give you the $100 back.
+
+3. Mutual Funds
+    What Are They?: A mutual fund is a collection of stocks, bonds, and other investments grouped together. Instead of buying just one stock, you buy a share of many different investments all at once.
+    How Do You Make Money?: The fund is managed by experts who try to grow your money by picking good investments. As the investments grow, so does the value of your share in the fund.
+    Example: Think of a mutual fund like a basket filled with a bunch of different fruits (stocks and bonds). Instead of picking just one fruit (stock), you're getting a mix of different kinds, which helps reduce risk.
+
+4. Real Estate
+    What Is It?: Real estate is about investing in property, like houses or buildings. People buy property with the hope that it will increase in value over time.
+    How Do You Make Money?: If the property goes up in value, you can sell it for a higher price. Sometimes, people also make money by renting out their property to others.
+    Example: Imagine you buy a house for $200,000, and a few years later, its value increases to $250,000. You could sell it for a profit.
+
+Risk and Reward
+    One important thing to know about investing is that it comes with risk. This means you might lose some 
+    or all of your money. Generally, the riskier the investment, the higher the potential reward (or the 
+    chance of making more money).
+
+    Low Risk: Bonds and savings accounts usually have lower risks but also lower rewards.
+    High Risk: Stocks and real estate can have higher rewards, but they can also lose money if the company 
+    or property doesn't do well.
+
+How to Start Investing
+    You might be thinking, "But I’m only in 6th grade! How can I invest?" 
+    That’s a great question! Most people start investing when they’re older, but there are ways to begin 
+    learning now. Here are a few steps:
+
+    Learn: The first step is to keep learning about how money works, how different investments work, and
+    what makes them risky or safe.
+    Save: It’s important to save money first. You can start by saving your allowance, birthday money, 
+    or money you earn from doing chores.
+    Start Small: When you’re older, you can invest a small amount of money through platforms that let 
+    you buy stocks or bonds (with a parent or guardian’s help).
+    Talk to Adults: If you're interested in investing, talk to your parents or a trusted adult about 
+    what they know. They might be able to help you set up an account when you’re ready.
+
+Quiz Time!
+    Let’s test your knowledge! Here are some questions to see how well you understand investing:
+
+    What is a stock?
+    How do bonds work?
+    Why do people invest in real estate?
+    What is a mutual fund?
+
+Conclusion: Why is Investing Important?
+    Investing is one of the best ways to help your money grow, especially if you start early. 
+    By learning how to invest wisely, you can build wealth over time and have more financial freedom 
+    in the future.
+
+    Remember: Investing isn't a "get-rich-quick" way to make money. It’s about being patient, 
+    making smart decisions, and thinking long-term!
+
+
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 23 - 
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 23 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 24 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 25 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 26 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 27 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 28 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 29 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 30 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 31 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 32 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 33 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 34 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 35 - 
+    []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 36 - 
+    []
 
