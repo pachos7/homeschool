@@ -1,9 +1,8 @@
-Curriculum
-
+Math Curriculum 6th Grade Weekly Guide
 
 »»————————————————————————---------------　★　---------------————————————————————————««
 Week 1/2 - Introduction to Algebra
-[4. Expressions and Equations (EE)]
+    [4. Expressions and Equations (EE)]
 
 Review missing number problems with addition for example:
 "If i read three books how many more books do I need to read to complete 10?"
@@ -352,7 +351,7 @@ Try using this equation with other examples, like how much money you have left i
 
 »»————————————————————————---------------　★　---------------————————————————————————««
 Week 3 - Introduction to Algebra
-[4. Expressions and Equations (EE)]
+    [4. Expressions and Equations (EE)]
 
 Ask the students to create an equation to represent their age.
 
@@ -450,7 +449,7 @@ equation would be the same. Encourage them to compare their graphs, tables and e
 
 »»————————————————————————---------------　★　---------------————————————————————————««
 Week 4  Analyze proportional relationships between quantities.
-[2. Ratios and Proportional Relationships (RP)]
+    [2. Ratios and Proportional Relationships (RP)]
 
 
 Draw a square of size 16cm x 16cm. Then paint the diagonal of the square like this:
@@ -555,7 +554,7 @@ or we can also say that 1cm = 30m
 
 »»————————————————————————---------------　★　---------------————————————————————————««
 Week 5  Analyze proportional relationships between quantities.
-[2. Ratios and Proportional Relationships (RP)]
+    [2. Ratios and Proportional Relationships (RP)]
 
 
 Activity 1: Build a more detailed scaled down version of a famous builing
@@ -578,7 +577,7 @@ Scale it down 20 times to paint it on a sheet of paper
 
 »»————————————————————————---------------　★　---------------————————————————————————««
 Week 6  Representing objects with Lego
-[6. Measurement and Data (MD)]
+    [6. Measurement and Data (MD)]
 
 Activity 1: Meters to lego: Find out how to represent the height of 3 buildigins with legos
 Example:
@@ -603,7 +602,7 @@ Remember to always take notes on your scetch of the original measurement and the
 
 »»————————————————————————---------------　★　---------------————————————————————————««
 Week 7  Measuring Angles
-    [Geometry (G)]
+    [5. Geometry (G)]
 
 Activity 1: Analize your bedroom doorframe.
 
@@ -673,7 +672,7 @@ This activity will help students delve into the relationships between different 
 
 »»————————————————————————---------------　★　---------------————————————————————————««
 Week 8 - Understanding Probability with Dice
-    [Measurement and Data (MD)]
+    [6. Measurement and Data (MD)]
 
 **Objective:** Students will learn the basics of probability by conducting experiments with dice.
 
@@ -709,7 +708,7 @@ This hands-on activity allows students to delve into probability concepts throug
 
 »»————————————————————————---------------　★　---------------————————————————————————««
 Week 9 - Probability concepts
-    [Measurement and Data (MD)]
+    [6. Measurement and Data (MD)]
 
 * Event
     Things that happen, there are certain events that we are certain will happen like: we are certain that 
@@ -791,4 +790,174 @@ Activity 1, Integer Number Line
         Definition: Multiplying a number by a sum is the same as doing each multiplication separately.
         Example:  3 * (2 + 4) = (3 * 2) + (3 * 4)
         Practical Example: If you buy 3 packs of gum at $2 each and 3 packs at $4 each, you can add the prices before multiplying, or multiply separately.
+
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 11 - Algebra basics review
+    [4. Expressions and Equations (EE)]
+
+
+Review the difference betwen Algebra and Arithmetric
+    Material: https://www.youtube.com/watch?v=NybHckSEQBI
+
+    Same rules, same four main operations, algebra introduces the element of the unknown
+    We use alphabeth leters to represent the unknown
+    Equation is a mathematical statement indicating that two things are equal
+    Multiplication is implied
+
+    Review the video and take notes
+
+    Formula is a generalization of a mathematical concept for example the area of a rectangle is
+    always the multiplication of the size of their base by its hight, if we represent base with b
+    and heigth with h we can always say that the area would be A = b x h and that's the 'formula'
+    of the rectangle area.
+
+    Review the power operation (Exponents) and its symbol
+    Material: https://www.youtube.com/watch?v=-zUmvpkhvW8&t=35s
+    Exponents represent an abbreviatted multiplication, for example 3^4 = 3 x 3 x 3 x 3 = 81
+    The Base (3 in this case) is the number to be multiplied repeatedly and the exponent ot indice (4 in this case)
+    is the number of times that the mulitpliaction is to be repeated.
+
+    There's two exponents that have its own name because we use them frequently.
+    The exponent 2 is known as square, as it is used to find the area of an square
+    The exponent 3 is known as cube, as it is used to find the volume of a cube
+
+    Review the Square root operation and its symbol
+    Material: Math Antics - Exponents and Square Roots
+    Is the inverse operation to the exponent 
+    We use the root sign also knows as the radical sign to indicate this operation
+    In the root operation we start with the asnwer to an exponent operation and we will find the original base
+
+    Grouping symbols: (), {}, []
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 12 - Formulas and Area
+    [4. Expressions and Equations (EE)]
+
+    A formula is a mathematical expression that describes a relationship between different variables.
+    It provides a way to calculate a value or to show how different quantities are related.
+
+    Components of a Formula
+        Variables: Letters that represent unknown values (e.g., 𝑥, 𝑦, 𝑎).
+        Constants: Fixed values (e.g., 2, 3.14).
+        Operators: Symbols that show operations (e.g., + for addition, - for subtraction, * for multiplication, and / for division).
+
+    Examples of Formulas
+        Area of square: a^2
+        Meaning: Multiply the length of one side (a) by itself.
+
+        Area of Rectanle: a * b
+        Meaning: Multiply the length (a) by the width (b)
+
+        Area of Triangle: 1/2 * 𝑏 × ℎ
+        Meaning: Multiply the base (𝑏) by the height (ℎ), then divide by 2.
+
+        Area of Circle:
+        𝐴 = 𝜋 (𝑟^2)
+        Meaning: Multiply 𝜋 (approximately 3.14) by the square of the radius (𝑟).
+
+
+    Visualizing Area
+        Grids: One way to visualize area is by using a grid. Imagine a rectangle divided into small squares. 
+        Each square represents one square unit. The total number of squares inside the rectangle equals its area.
+
+    Units of Area
+        Area is always measured in square units because we are covering a surface. For example:
+
+        A square that is 1 meter on each side has an area of 1m^2  (1 square meter).
+        If you have a rectangle that is 3 meters long and 2 meters wide, its area would be 
+        3×2=6m^2(6 square meters).
+    
+    Conclusion
+        In summary, area is a fundamental concept in geometry that measures the space inside shapes. 
+        It's essential for practical applications in everyday life. 
+        By learning the formulas for calculating area, you can easily find out how much surface space a shape occupies.
+
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 13 - Math Challenges
+    [4. Number Sense and Operations (NSOP)]
+    - Select the values of x that make this equation true 2x + 5 = 9
+        a:x = 1, b:x = 2, c:x = 3
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 14 - Math Challenges
+    [4. Number Sense and Operations (NSOP)]
+
+    - Chicago has a temperature of −10 degrees Fahrenheit (°F). It is colder in Minneapolis than in Chicago.
+      Select all the values that could represent the temperature of Minneapolis.
+      A 12°F, B 8°F, C −8°F, D −12°F, E −20°F
+    - Dominic is buying candy by the pound for a party. For every 10 pounds of candy he buys, he pays $12. 
+      What is the cost, per pound, for the candy?
+    - What is the value of the expression 1608 ÷ 268?
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 15 - Math Refresh
+    [4. Number Sense and Operations (NSOP)]
+    Multiplication by x10
+        27 x 1000
+        17 x 10000
+        2.6 x 100
+    Division 2 digits
+        Long Division with 2-Digit Divisors
+            https://mathantics.com/lesson/long-division-with-2-digit-divisors
+    
+    Fractions
+
+        https://mathantics.com/lesson/fractions-are-division
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 16 - Fractions and decimals
+    [4. Number Sense and Operations (NSOP)]
+    
+    Fractions and decimal numbers
+        https://mathantics.com/lesson/fractions-and-decimal-numbers
+
+    Understand the concept of the values places 1/10, 1/100, 1/1000
+        Find the facrtion for these decimals:
+            0.2
+            0.6
+            0.4
+            1.5
+            3.5
+            2.05
+            12.345
+
+        
+
+    Fractions & Decimals in Real life
+        Challenge: find a thick book and figure out a fraction to represent the thickness of a single page
+        Compare the thickness of the paper on two different books
+        Try to determine the thickness of a hair.
+            Using a long hair wrap it around a pencil, do several loops making sure that there's no overlap.
+            Then measure the width of the strands together and then calculate the thickness of a single
+            one by dividing by the number of loops.
+            Represent the thickness as a fraction of a milimiter
+            Compare with the thickness of the paper pages from the book
+
+
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 17 - Fractions, decimals and percentages
+    [4. Number Sense and Operations (NSOP)]
+
+    Createa a table including a graph, a fraction and a percentage with the following values:
+    0.2, 0.4 , 0.6 , 0.8 and 1.0
+
+    Find the percentage of a whole number, use practical problems like sales discounts, or savings.
+
+    Find how much a number is a percentage of another, use practical examples like voting numbers, population, etc
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
 
