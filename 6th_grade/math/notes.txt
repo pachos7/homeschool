@@ -105,3 +105,12 @@ N. Math concepts K-12
 
 References
 https://www.thecorestandards.org/wp-content/uploads/Math_Standards1.pdf
+
+Add for the last 3 lessons
+
+7. Mathematical Reasoning (MR)
+   - Make connections between mathematical ideas and understand how they relate to each other.
+   - Use mathematical reasoning and proof to solve problems and make generalizations about sets, numbers, functions, and geometric shapes.
+   - Understand the concept of congruence and use it to solve real-world problems.
+   - Justify solutions to problems using precise mathematical language and definitions.
+

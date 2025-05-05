@@ -1,7 +1,7 @@
 Math Curriculum 6th Grade Weekly Guide
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 1/2 - Introduction to Algebra
+Week 1 - Introduction to Algebra
     [4. Expressions and Equations (EE)]
 
 Review missing number problems with addition for example:
@@ -225,8 +225,9 @@ leght of paper
 See how they form a line, we could find other sizes just by tracing a line andf finding the corresponding values
 
 
-
-------------------------------------------------------------------------------------
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 2 - Introduction to Algebra
+    [4. Expressions and Equations (EE)]
 
 # 6th Grade Math Guide: Understanding the Equation y = 100 - 3x
 
@@ -448,7 +449,7 @@ equation would be the same. Encourage them to compare their graphs, tables and e
 
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 4  Analyze proportional relationships between quantities.
+Week 4 - Analyze proportional relationships between quantities
     [2. Ratios and Proportional Relationships (RP)]
 
 
@@ -553,7 +554,7 @@ or we can also say that 1cm = 30m
 
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 5  Analyze proportional relationships between quantities.
+Week 5 - Scaling a Drawing
     [2. Ratios and Proportional Relationships (RP)]
 
 
@@ -576,7 +577,7 @@ Scale it down 20 times to paint it on a sheet of paper
 
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 6  Representing objects with Lego
+Week 6 - Representing objects with Lego
     [6. Measurement and Data (MD)]
 
 Activity 1: Meters to lego: Find out how to represent the height of 3 buildigins with legos
@@ -601,7 +602,7 @@ Remember to always take notes on your scetch of the original measurement and the
 
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 7  Measuring Angles
+Week 7 - Measuring Angles
     [5. Geometry (G)]
 
 Activity 1: Analize your bedroom doorframe.
@@ -740,7 +741,6 @@ Week 9 - Probability concepts
 Week 10 - Number Line and properties of Integers
     [3. The Number System (NS)]
 
-
 The number line
 Is a visual way to represent numbers. It is a straight line with numbers placed at equal intervals. The center of the number line is zero (0), and numbers to the right of zero are positive, while numbers to the left are negative.
 
@@ -875,14 +875,14 @@ Week 12 - Formulas and Area
 
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 13 - Math Challenges
-    [4. Number Sense and Operations (NSOP)]
+Week 13 - Solving Equations
+    [1. Number Sense and Operations (NSOP)]
     - Select the values of x that make this equation true 2x + 5 = 9
         a:x = 1, b:x = 2, c:x = 3
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 14 - Math Challenges
-    [4. Number Sense and Operations (NSOP)]
+Week 14 - Equations words problems
+    [1. Number Sense and Operations (NSOP)]
 
     - Chicago has a temperature of −10 degrees Fahrenheit (°F). It is colder in Minneapolis than in Chicago.
       Select all the values that could represent the temperature of Minneapolis.
@@ -892,8 +892,8 @@ Week 14 - Math Challenges
     - What is the value of the expression 1608 ÷ 268?
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 15 - Math Refresh
-    [4. Number Sense and Operations (NSOP)]
+Week 15 - Mulitplying by 10, long division, fractions
+    [1. Number Sense and Operations (NSOP)]
     Multiplication by x10
         27 x 1000
         17 x 10000
@@ -907,8 +907,8 @@ Week 15 - Math Refresh
         https://mathantics.com/lesson/fractions-are-division
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 16 - Fractions and decimals
-    [4. Number Sense and Operations (NSOP)]
+Week 16 - Fractions and decimals in real life
+    [1. Number Sense and Operations (NSOP)]
     
     Fractions and decimal numbers
         https://mathantics.com/lesson/fractions-and-decimal-numbers
@@ -923,8 +923,6 @@ Week 16 - Fractions and decimals
             2.05
             12.345
 
-        
-
     Fractions & Decimals in Real life
         Challenge: find a thick book and figure out a fraction to represent the thickness of a single page
         Compare the thickness of the paper on two different books
@@ -937,8 +935,8 @@ Week 16 - Fractions and decimals
 
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 17 - Fractions, decimals and percentages
-    [4. Number Sense and Operations (NSOP)]
+Week 17 - Relationship between Fractions, decimals and percentages
+    [1. Number Sense and Operations (NSOP)]
 
     Createa a table including a graph, a fraction and a percentage with the following values:
     0.2, 0.4 , 0.6 , 0.8 and 1.0
@@ -947,57 +945,15 @@ Week 17 - Fractions, decimals and percentages
 
     Find how much a number is a percentage of another, use practical examples like voting numbers, population, etc
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-»»————————————————————————---------------　★　---------------————————————————————————««
-Week 11 - 
-    []
-
-»»————————————————————————---------------　★　---------------————————————————————————««
-Week 12 - 
-    []
-
-»»————————————————————————---------------　★　---------------————————————————————————««
-Week 13 - 
-    []
-
-»»————————————————————————---------------　★　---------------————————————————————————««
-Week 14 - 
-    []
-
-»»————————————————————————---------------　★　---------------————————————————————————««
-Week 15 - 
-    []
-
-»»————————————————————————---------------　★　---------------————————————————————————««
-Week 16 - 
-    []
-
-»»————————————————————————---------------　★　---------------————————————————————————««
-Week 17 - 
-    []
 
 »»————————————————————————---------------　★　---------------————————————————————————««
 Week 18 - 
     []
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 19 - 
+Week 19 - Basic Salary and Budget
     [8. Financial Education (FE)]
+
     - Learn the basics about how salary works, how many deductions do we have and much we actually get
     - Review basic concepts about money expenses: Wants, Needs, Save, Invest, Give
     - Prepare a basic montly budget to get familiar with how a starting salary works and the cost
@@ -1009,9 +965,8 @@ Activity 1, Monthly budget
     salary only
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 20 - Salary and expending money
+Week 20 - Expending money
     [8. Financial Education (FE)]
-    - 
 
 Activity 1, Monthly budget
     Simulate students getting a defined ammount of monthly salary and ask them to distribute the money
@@ -1069,7 +1024,6 @@ Week 21 - Credit Cards
 »»————————————————————————---------------　★　---------------————————————————————————««
 Week 22 - Investment 101
     [8. Financial Education (FE)]
-
 
 https://youtu.be/8JSGKQiwafc?si=gOOR4S0hnhiS-gIF
 
@@ -1152,53 +1106,157 @@ Conclusion: Why is Investing Important?
     making smart decisions, and thinking long-term!
 
 
+»»————————————————————————---------------　★　---------------————————————————————————««
+Week 23 - Perimeter
+    [5. Geometry (G)]
+   
+    https://mathantics.com/lesson/perimeter
+    https://corbettmaths.com/wp-content/uploads/2013/02/perimeter-pdf2.pdf
+
+    What is Perimeter?
+
+    The perimeter is the distance around the outside of a shape.
+    It is like the fence that goes around a yard, or the border of a picture frame.
+    Why is it Important?
+
+    You use perimeter when you need to measure the boundary of a space, like when you put a fence around a garden or 
+    frame a photo.
+
+    1. Perimeter of a Square
+    A square has four equal sides.
+    To find the perimeter of a square, you add the lengths of all four sides.
+    Formula:
+        Perimeter    = 4 × side length
+
+    Example:
+    If each side of the square is 5 units, then:
+        Perimeter = 4 × 5 = 20 units
+
+    2. Perimeter of a Rectangle
+    A rectangle has two pairs of opposite sides that are equal in length.
+    To find the perimeter, add the lengths of all four sides.
+    Formula:
+        Perimeter=2×(length+width)
+
+    Example:
+    If the length of the rectangle is 7 units and the width is 4 units, then:
+        Perimeter = 2 × (7 + 4) = 2 × 11 = 22 units
+
+    3. Perimeter of Irregular Shapes
+    Sometimes you will need to add up all the sides of an irregular shape.
+    Example:
+        A shape has sides of lengths 3, 6, 3, and 4 units.
+    
+    What is the perimeter?
+        Perimeter = 3 + 6 + 3 + 4 = 16 units
+
+
+    Quick Recap:
+        Square    Perimeter = 4 × side length
+        Rectangle Perimeter = 2 × (length + width)
+        Irregular Shapes: Add up all the sides!
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 23 - 
+Week 24 - Area Squqre, Rectangle and Irregular Shapes
+    [5. Geometry (G)]
+
+    https://mathantics.com/lesson/area
+
+    What is Area?
+        The area is the space inside a shape.
+        Imagine filling the inside of a shape with square tiles. The area tells you how many tiles you would need to cover the surface.
+
+    Why is it Important?
+        You use area when you want to know how much space something takes up, like how much carpet is needed to cover a floor or how much paint to cover a wall.
+
+    1. Area of a Square
+        A square has four equal sides.
+        To find the area of a square, multiply the length of one side by itself.
+        Area = side × side or
+        Area = side^2
+     
+        Example:
+            If each side of the square is 4 units, then:
+            Area = 4 × 4 = 16 square units
+
+    2. Area of a Rectangle
+        A rectangle has opposite sides that are equal in length.
+        To find the area, multiply the length by the width.
+        Formula:
+            Area = length × width
+
+        Example:
+            If the length of the rectangle is 5 units and the width is 3 units, then:
+            Area = 5 × 3 = 15 square units
+
+    3. Area of Irregular Shapes
+        For irregular shapes, we can break them into smaller shapes, such as rectangles and squares, and then find the area of each part and add them together.
+
+    Example:
+        If an irregular shape is made up of a rectangle with a length of 6 units and a width of 4 units, and a square with side length 2 units, find the total area.
+
+        Area of the rectangle: 6 × 4 = 24 square units
+        Area of the square:    2 × 2 = 4  square units
+        Total Area: 24 + 4 = 28 square units
+
+    Group Activity:
+        Each student will be given a shape (either a square, rectangle, or irregular shape) on a piece of paper.
+        They will measure the length and width (or sides) of the shape and calculate the area.
+        Afterward, they will share their results with the class.
+
+    Quick Recap:
+
+    Square Area = side^2     
+    Rectangle Area = length × width
+    Irregular Shapes: Break it into smaller parts and add the areas!
+
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 23 - 
-    []
+Week 25 - Area Circle
+    [5. Geometry (G)]
+
+    https://mathantics.com/lesson/circles-what-is-pi
+    https://mathantics.com/lesson/circles-circumference-and-area
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 24 - 
-    []
+Week 26 - Volume Cubes
+    [5. Geometry (G)]
+
+    https://mathantics.com/lesson/volume
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 25 - 
-    []
+Week 27 - Volume Geometric Projections
+    [5. Geometry (G)]
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 26 - 
-    []
+Week 28 - Volume Spheres
+    [5. Geometry (G)]
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 27 - 
-    []
+Week 29 - Practical Volume applications
+    [5. Geometry (G)]
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 28 - 
-    []
+Week 30 - Rations and Rates
+    [2. Ratios and Proportional Relationships (RP)]
 
-»»————————————————————————---------------　★　---------------————————————————————————««
-Week 29 - 
-    []
-
-»»————————————————————————---------------　★　---------------————————————————————————««
-Week 30 - 
-    []
+    https://mathantics.com/lesson/ratios-and-rates
 
 »»————————————————————————---------------　★　---------------————————————————————————««
 Week 31 - 
     []
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 32 - 
-    []
+Week 32 - Proportions
+    [2. Ratios and Proportional Relationships (RP)]
+
+    https://mathantics.com/lesson/proportions
 
 »»————————————————————————---------------　★　---------------————————————————————————««
-Week 33 - 
-    []
+Week 33 - The Pithagorean Theorem
+    [7. Mathematical Reasoning (MR)]
+    https://mathantics.com/lesson/the-pythagorean-theorem
+    
 
 »»————————————————————————---------------　★　---------------————————————————————————««
 Week 34 - 
